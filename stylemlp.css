@@ -1,0 +1,126 @@
+h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 2em;
+	text-align: center;
+	border: 7px double white;
+	margin-right: 50px;
+	margin-left: 50px;
+	color: white;
+	background-color: black;
+}
+
+h4 {
+	font-family: sans-serif;
+	font-size: 1.5em;
+	text-align: left;
+	font-style: italic;
+	font-style: bold;
+	margin: 10px;
+	color: white;
+}
+
+body {
+  background:black  ;
+}
+
+.item img {
+	width: 100%;
+}
+
+
+p {
+  margin: 10px;
+  text-align: justify;
+	padding: 20px;
+}
+
+.left {
+	background: black ;
+}
+
+h2{
+	font-family: sans-serif;
+	font-size: 1.5em;
+	text-align: center;
+	font-style: italic;
+	font-style: bold;
+	margin: 10px;
+	color: white;
+}
+.p1{
+	text-align: center;
+	font-size: 1.2em
+	color: black;
+}
+
+.bars {
+	font-family: sans-serif;
+	font-size: 1.5em;
+	text-align: left;
+	font-style: italic;
+	font-style: bold;
+	color: white;
+}
+
+h3{
+	font-size: 1.2em;
+	text-align: left;
+	color: white;
+}
+
+
+.navbar {
+	font-family:    'Lobster';
+	font-size:      1.5em;
+	margin: 0 auto;
+	 color: white;
+}
+
+.column{
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+<<<<<<< HEAD
+=======
+#map_wrapper {
+    height: 1px;
+}
+
+#map_canvas {
+    width: 100%;
+    height: 100%;
+
+}
+
+.img{
+	position: left;
+>>>>>>> origin/master
+}
+.row{
+padding: 20px;
+position: center
+background-color:#F0F0F0;}
+
+.jssocials-share-link { border-radius: 50%; }
+
+.About{
+	margin: 100px;
+	font-size: 1.5em;
+	color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.jumbotron{
+	background-color: black;
+	color: white;
+}
+
+.episodes {
+	font-size: 1em;
+	color: white;
+}
